@@ -1,7 +1,13 @@
-# Theme Name
+# Hugo Theme Pixelfy
 
-## Features
+A pixel style Hugo theme.
 
-## Installation
+## Run Demo
 
-## Configuration
+```shell
+hugo server --source ./exampleSite
+```
+
+## License
+
+Under the [MIT license](LICENSE).
